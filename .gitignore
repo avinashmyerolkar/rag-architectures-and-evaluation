@@ -1,0 +1,45 @@
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data & Models (large files)
+data/**/*.pdf
+data/**/*.csv
+*.bin
+*.pkl
+*.pt
+*.ckpt
+chroma_db/
+faiss_index/
+*.index
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# LangSmith / tracing
+langsmith_traces/
