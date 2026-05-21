@@ -37,6 +37,7 @@ Each module folder has its own `README.md` as the module's reference document, p
 | Module | Notes status |
 |--------|-------------|
 | `04_vector_stores/` | Full notes incorporated: What/Why/How of vector stores, IVF clustering mechanics, HNSW layered graph mechanics, ChromaDB |
+| `08_agentic_rag_langgraph/` | Full notes incorporated: Naive RAG limitations, CRAG, Self-RAG, Agentic RAG properties, ReAct loop, query phase, retrieval phase (where/how/when), relevancy check, response verification, memory, dynamic augmentation, graceful fallback |
 
 ## Tech stack
 
